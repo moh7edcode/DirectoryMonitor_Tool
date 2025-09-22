@@ -1,0 +1,34 @@
+[2025-09-22 07:45:04] first scan complete. Monitoring started...
+[2025-09-22 07:45:04] Monitoring: E:\test_file
+[2025-09-22 07:45:09] Monitoring: E:\test_file
+[2025-09-22 07:45:14] Monitoring: E:\test_file
+[2025-09-22 07:45:19] Monitoring: E:\test_file
+[2025-09-22 07:45:24] Monitoring: E:\test_file
+[2025-09-22 07:45:24] File CREATED: E:\test_file\New Text Document.txt (Size: 0 bytes)
+[2025-09-22 07:45:29] Monitoring: E:\test_file
+[2025-09-22 07:45:34] Monitoring: E:\test_file
+[2025-09-22 07:45:34] File RENAMED: E:\test_file\New Text Document.txt -> E:\test_file\mohammed.txt
+[2025-09-22 07:45:39] Monitoring: E:\test_file
+[2025-09-22 07:45:44] Monitoring: E:\test_file
+[2025-09-22 07:45:44] File DELETED: E:\test_file\mohammed.txt
+[2025-09-22 07:45:49] Monitoring: E:\test_file
+[2025-09-22 07:45:54] Monitoring: E:\test_file
+[2025-09-22 07:45:54] Directory CREATED: E:\test_file\New folder (2)
+[2025-09-22 07:45:59] Monitoring: E:\test_file
+[2025-09-22 07:46:04] Monitoring: E:\test_file
+[2025-09-22 07:46:04] Directory RENAMED: E:\test_file\New folder (2) -> E:\test_file\mohammed
+[2025-09-22 07:46:09] Monitoring: E:\test_file
+[2025-09-22 07:46:14] Monitoring: E:\test_file
+[2025-09-22 07:46:14] Directory DELETED: E:\test_file\mohammed
+[2025-09-22 07:46:19] Monitoring: E:\test_file
+[2025-09-22 07:46:19] Directory DELETED: E:\test_file\f
+[2025-09-22 07:46:24] Monitoring: E:\test_file
+[2025-09-22 07:46:51] first scan complete. Monitoring started...
+[2025-09-22 07:46:51] Monitoring: E:\test_file
+[2025-09-22 07:46:56] Monitoring: E:\test_file
+[2025-09-22 07:47:01] Monitoring: E:\test_file
+[2025-09-22 07:47:03] Monitor stopped
+[2025-09-22 15:45:51] first scan complete. Monitoring started...
+[2025-09-22 15:45:51] Monitoring: E:\test_file
+[2025-09-22 15:45:56] Monitoring: E:\test_file
+[2025-09-22 15:45:59] Monitor stopped
