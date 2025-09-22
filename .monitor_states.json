@@ -1,0 +1,414 @@
+{
+    "files": {
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Info.txt": {
+            "hash": "769c7792c9af59f08455e3a46f23fcf91ff488f3387edf28ed4b5e76c9cb26e1",
+            "size": 459,
+            "basename": "Info.txt",
+            "modified_time": 1698101174.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\01. Introduction\\01. Intro.pdf": {
+            "hash": "e14225289391cd1b4042795fbf4a42b76cb2403cf13fdce8318524e20c45e44e",
+            "size": 110664,
+            "basename": "01. Intro.pdf",
+            "modified_time": 1593754686.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\01. Introduction\\01. Introduction.mp4": {
+            "hash": "246917b928b9f45da9db1b782cf9e04065058068847ad77bf970c2118fc03283",
+            "size": 5790986,
+            "basename": "01. Introduction.mp4",
+            "modified_time": 1593754686.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\01. Introduction\\Info.txt": {
+            "hash": "769c7792c9af59f08455e3a46f23fcf91ff488f3387edf28ed4b5e76c9cb26e1",
+            "size": 459,
+            "basename": "Info.txt",
+            "modified_time": 1698101174.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\02. Preparation\\01. Installing Kali Linux As a Virtual Machine.mp4": {
+            "hash": "b366e86ae062e522de39c80e6d66b583ae09cc4c99b344b7ff062395534249a2",
+            "size": 25443904,
+            "basename": "01. Installing Kali Linux As a Virtual Machine.mp4",
+            "modified_time": 1593754690.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\02. Preparation\\02. Basic Overview Of Kali Linux.mp4": {
+            "hash": "cdd76df3115bc0f741ed675eb057184641ed45e972c558f437cc3b3202ed0eaf",
+            "size": 27854428,
+            "basename": "02. Basic Overview Of Kali Linux.mp4",
+            "modified_time": 1593754690.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\02. Preparation\\external_links.txt": {
+            "hash": "9b1542628d450d6f8288c4c8b83937c2ee7e1d085cef6ba02a921fc17b95ea49",
+            "size": 306,
+            "basename": "external_links.txt",
+            "modified_time": 1593754694.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\02. Preparation\\Info.txt": {
+            "hash": "769c7792c9af59f08455e3a46f23fcf91ff488f3387edf28ed4b5e76c9cb26e1",
+            "size": 459,
+            "basename": "Info.txt",
+            "modified_time": 1698101174.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\03. Network Basics\\01. Networks Basics.mp4": {
+            "hash": "043f96f21276a93677e53d1268c35c8268cf5121d45c272d23c8444fe2de9d38",
+            "size": 5976565,
+            "basename": "01. Networks Basics.mp4",
+            "modified_time": 1593754668.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\03. Network Basics\\02. Connecting a Wireless Adapter To Kali.mp4": {
+            "hash": "8d5b85604efd5191bd8937463cadcebc751a323cadf8eb2408d8c56fc4981778",
+            "size": 21918910,
+            "basename": "02. Connecting a Wireless Adapter To Kali.mp4",
+            "modified_time": 1593754668.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\03. Network Basics\\03. What is MAC Address  How To Change It.mp4": {
+            "hash": "ab71bf140f2accb7acdef70ca09ebe6c808b28ddc8a93758841b0104606ecc0b",
+            "size": 9211660,
+            "basename": "03. What is MAC Address  How To Change It.mp4",
+            "modified_time": 1593754666.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\03. Network Basics\\04. Wireless Modes - Managed  Monitor Mode Explained.mp4": {
+            "hash": "9277830f10246cfc7e6d53142361a67c000980ca5a0ea028ffe016ad6f8f7fe3",
+            "size": 10376423,
+            "basename": "04. Wireless Modes - Managed  Monitor Mode Explained.mp4",
+            "modified_time": 1593754666.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\03. Network Basics\\05. Enabling Monitor Mode Manually (2nd method).mp4": {
+            "hash": "a36784b4741392a35180b05e6feccf30c230c848843f5059e52bc0104f97f1c4",
+            "size": 7028978,
+            "basename": "05. Enabling Monitor Mode Manually (2nd method).mp4",
+            "modified_time": 1593754664.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\03. Network Basics\\06. Enabling Monitor Mode Using airmon-ng (3rd method).mp4": {
+            "hash": "635288fc7c1244a470ad8b7437bfc60c0369ac0045acf9572236ab28bfdbff0c",
+            "size": 5482265,
+            "basename": "06. Enabling Monitor Mode Using airmon-ng (3rd method).mp4",
+            "modified_time": 1593754662.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\03. Network Basics\\07. 02-Sniffing-Baiscs.pdf": {
+            "hash": "b1579e3b982db22f1d317dffc2fe69b67462f23630b558641e8157fb04ec93d9",
+            "size": 104785,
+            "basename": "07. 02-Sniffing-Baiscs.pdf",
+            "modified_time": 1593754674.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\03. Network Basics\\08. Sniffing Basics - Using Airodump-ng.mp4": {
+            "hash": "d3e5a739b579bcc5ebd5d25409832c8c521385b1cb973a4db801c9f0aad54367",
+            "size": 12175819,
+            "basename": "08. Sniffing Basics - Using Airodump-ng.mp4",
+            "modified_time": 1593754662.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\03. Network Basics\\09. Targeted Sniffing Using Airodump-ng.mp4": {
+            "hash": "bf74c4c145c4c8e97d0583d3a5ea1a5e8bb11f8e11babd8e2c90c2faf41f1af2",
+            "size": 17921121,
+            "basename": "09. Targeted Sniffing Using Airodump-ng.mp4",
+            "modified_time": 1593754660.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\03. Network Basics\\10. Deauthentication Attack (Disconnecting Any Device From The Network).mp4": {
+            "hash": "f2f409cad39a558bd9594e19cbc1bdd134c85fd34f1a8aecd4d98b92b700d416",
+            "size": 10905785,
+            "basename": "10. Deauthentication Attack (Disconnecting Any Device From The Network).mp4",
+            "modified_time": 1593754660.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\03. Network Basics\\11. Discovering Hidden Networks.mp4": {
+            "hash": "6ce5088246f4446d12519997f3aff00c08c40334df1571b63a99695a8dd7d5a4",
+            "size": 17225831,
+            "basename": "11. Discovering Hidden Networks.mp4",
+            "modified_time": 1593754658.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\03. Network Basics\\12. Connecting To Hidden Networks.mp4": {
+            "hash": "5feba97ab3a81b19128102455d42c9e99088bad6fd48cba129522bd5a1b106b2",
+            "size": 13674506,
+            "basename": "12. Connecting To Hidden Networks.mp4",
+            "modified_time": 1593754658.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\03. Network Basics\\13. Bypassing Mac Filtering (Blacklists  Whitelists).mp4": {
+            "hash": "12680136f242bff3101cd7a9a8f4e94f1cc7000302b24f91abd90970ee1eee11",
+            "size": 21812551,
+            "basename": "13. Bypassing Mac Filtering (Blacklists  Whitelists).mp4",
+            "modified_time": 1593754656.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\03. Network Basics\\external_links.txt": {
+            "hash": "e4bd70c0da7c096dbba5ddbd3e8c24a47c59dc889c1a3c237f982fd8fa224c42",
+            "size": 180,
+            "basename": "external_links.txt",
+            "modified_time": 1593754676.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\03. Network Basics\\Info.txt": {
+            "hash": "769c7792c9af59f08455e3a46f23fcf91ff488f3387edf28ed4b5e76c9cb26e1",
+            "size": 459,
+            "basename": "Info.txt",
+            "modified_time": 1698101174.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\04. WEP Cracking\\01. Cracking Sections Introduction.mp4": {
+            "hash": "cf44703eceed21eee5402f903ff23af381adadc56f03ffdfa969592b14b258b3",
+            "size": 3074127,
+            "basename": "01. Cracking Sections Introduction.mp4",
+            "modified_time": 1593754644.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\04. WEP Cracking\\02. Theory Behind Cracking WEP.mp4": {
+            "hash": "02dfc99f24f941293f5179e859968bfa3a15e1a8e7d2e4895c25243e40ed062c",
+            "size": 7454184,
+            "basename": "02. Theory Behind Cracking WEP.mp4",
+            "modified_time": 1593754642.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\04. WEP Cracking\\02. WEP Cracking.pdf": {
+            "hash": "7490b878fb1ef9644bbc05c06ea575b03d4b5a73ea085a98875fe4efde5ce12c",
+            "size": 119533,
+            "basename": "02. WEP Cracking.pdf",
+            "modified_time": 1593754648.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\04. WEP Cracking\\03. WEP Cracking - Basic Case.mp4": {
+            "hash": "f2c25d896449d7977acd8e75e4b78c485b3d7f269f57b2637ffc903cd340259e",
+            "size": 12903819,
+            "basename": "03. WEP Cracking - Basic Case.mp4",
+            "modified_time": 1593754642.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\04. WEP Cracking\\04. Associating With Target Network Using Fake Authentication Attack.mp4": {
+            "hash": "4d1e4289b0fc989d5ad27c6c8aecb7c0ab67c1c865f52d05b791232beeb8fb64",
+            "size": 10362914,
+            "basename": "04. Associating With Target Network Using Fake Authentication Attack.mp4",
+            "modified_time": 1593754640.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\04. WEP Cracking\\05. ARP Request Reply Attack.mp4": {
+            "hash": "a39f43dc42bb05a53c5852dda74ad0dd9e9fd9bd6911cbc0ac3c603d88b62bdd",
+            "size": 9192720,
+            "basename": "05. ARP Request Reply Attack.mp4",
+            "modified_time": 1593754638.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\04. WEP Cracking\\06. Chopchop Attack.mp4": {
+            "hash": "03d9bd7d09fb47053b744531614551406c5410b5d4e285a4f0b5d1fef77697e2",
+            "size": 17484342,
+            "basename": "06. Chopchop Attack.mp4",
+            "modified_time": 1593754638.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\04. WEP Cracking\\07. Fragmentation Attack.mp4": {
+            "hash": "816aae18e8a0a95350fb86ddebf9a0285a371a1c615bac944b949d63e840df45",
+            "size": 16885831,
+            "basename": "07. Fragmentation Attack.mp4",
+            "modified_time": 1593754638.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\04. WEP Cracking\\08. Cracking SKA Networks.mp4": {
+            "hash": "5115ebb8221da72e0eb7c5322b6cdd722beac786209ea340ef798a1fb7781f90",
+            "size": 19059233,
+            "basename": "08. Cracking SKA Networks.mp4",
+            "modified_time": 1593754636.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\04. WEP Cracking\\Info.txt": {
+            "hash": "769c7792c9af59f08455e3a46f23fcf91ff488f3387edf28ed4b5e76c9cb26e1",
+            "size": 459,
+            "basename": "Info.txt",
+            "modified_time": 1698101174.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\05. WPAWPA2 Cracking\\01. WPA Cracking - Introduction.mp4": {
+            "hash": "c8957fbdb380e8f8caf87256b6f31feea07a7a1cd7d8c7a2a63d10196254b825",
+            "size": 4537577,
+            "basename": "01. WPA Cracking - Introduction.mp4",
+            "modified_time": 1593754632.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\05. WPAWPA2 Cracking\\01. WPA Cracking.pdf": {
+            "hash": "521abef79c5170a6a2fa2ea382bdd98ab0b432027ba51159d6c72ecd54608acd",
+            "size": 137137,
+            "basename": "01. WPA Cracking.pdf",
+            "modified_time": 1593754634.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\05. WPAWPA2 Cracking\\Info.txt": {
+            "hash": "769c7792c9af59f08455e3a46f23fcf91ff488f3387edf28ed4b5e76c9cb26e1",
+            "size": 459,
+            "basename": "Info.txt",
+            "modified_time": 1698101174.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\06. WPAWPA2 Cracking - Exploiting WPS\\01. WPA Cracking - Exploiting WPS Feature.mp4": {
+            "hash": "4d2c227df827052c726a152630055242b403363a52b2465cb8758373dc96a242",
+            "size": 14701124,
+            "basename": "01. WPA Cracking - Exploiting WPS Feature.mp4",
+            "modified_time": 1593754612.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\06. WPAWPA2 Cracking - Exploiting WPS\\02. Bypassing Failed to associate Issue.mp4": {
+            "hash": "7e387587afe4a143ebc06089cb3d47192bcda9f115d4e57dc3d37816b3d93088",
+            "size": 11927931,
+            "basename": "02. Bypassing Failed to associate Issue.mp4",
+            "modified_time": 1593754610.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\06. WPAWPA2 Cracking - Exploiting WPS\\03. Bypassing 0x3  0x4 Errors.mp4": {
+            "hash": "2e11a6c3eed253e78a299e2668d2d230a15b2edacae7e82f23c4ca765943fc47",
+            "size": 20371276,
+            "basename": "03. Bypassing 0x3  0x4 Errors.mp4",
+            "modified_time": 1593754608.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\06. WPAWPA2 Cracking - Exploiting WPS\\04. WPS Lock - What Is It  How To Bypass it.mp4": {
+            "hash": "f69630818594df09c91b194c7f576fc2ff6e0add361511c288305a022779c078",
+            "size": 19319351,
+            "basename": "04. WPS Lock - What Is It  How To Bypass it.mp4",
+            "modified_time": 1593754608.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\06. WPAWPA2 Cracking - Exploiting WPS\\05. Unlocking WPS.mp4": {
+            "hash": "f723909037fe37256a7e5debc9da0757b1ad9fcbd35691a58eb4bf8fe0c3d733",
+            "size": 21187771,
+            "basename": "05. Unlocking WPS.mp4",
+            "modified_time": 1593754606.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\06. WPAWPA2 Cracking - Exploiting WPS\\Info.txt": {
+            "hash": "769c7792c9af59f08455e3a46f23fcf91ff488f3387edf28ed4b5e76c9cb26e1",
+            "size": 459,
+            "basename": "Info.txt",
+            "modified_time": 1698101174.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\07. WPAWPA2 Cracking - Wordlist Attacks\\01. Theory Behind Cracking WPAWPA2.mp4": {
+            "hash": "6a7496d4fa64dc24f74d2df3f8c33315b01c12254fb2de738be5f5439d807c52",
+            "size": 4996659,
+            "basename": "01. Theory Behind Cracking WPAWPA2.mp4",
+            "modified_time": 1593754592.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\07. WPAWPA2 Cracking - Wordlist Attacks\\02. How To Capture The Handshake.mp4": {
+            "hash": "4e0e83af3e1d23d99ceba3c96c08349d7b054f46bd12d7365604b22404c529aa",
+            "size": 9734717,
+            "basename": "02. How To Capture The Handshake.mp4",
+            "modified_time": 1593754592.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\07. WPAWPA2 Cracking - Wordlist Attacks\\03. Creating a Wordlist.mp4": {
+            "hash": "180b637b5d12651a14ecd65ea1dbe23969ca9451dbba1a624782f03f3edae384",
+            "size": 10942839,
+            "basename": "03. Creating a Wordlist.mp4",
+            "modified_time": 1593754588.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\07. WPAWPA2 Cracking - Wordlist Attacks\\03. Some Links To Wordlists 1.txt": {
+            "hash": "0cc483cd145b8ed773c343e6f46d65dfa8702b367a925122543128be87f68635",
+            "size": 431,
+            "basename": "03. Some Links To Wordlists 1.txt",
+            "modified_time": 1593754574.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\07. WPAWPA2 Cracking - Wordlist Attacks\\04. Cracking Key Using A Wordlist Attack.mp4": {
+            "hash": "3f30c982f57a38c7ba92e0220ff3b7c4ed97340dea97847adbdc78045f6be312",
+            "size": 8116784,
+            "basename": "04. Cracking Key Using A Wordlist Attack.mp4",
+            "modified_time": 1593754582.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\07. WPAWPA2 Cracking - Wordlist Attacks\\05. Saving Cracking Progress.mp4": {
+            "hash": "aa405bbc6f0014cdf46a6ead505312b3f4cc422419432ded2ce4d3cdb2d1fad9",
+            "size": 21732520,
+            "basename": "05. Saving Cracking Progress.mp4",
+            "modified_time": 1593754580.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\07. WPAWPA2 Cracking - Wordlist Attacks\\06. Using Huge Wordlists With Aircrack-ng Without Wasting Storage.mp4": {
+            "hash": "d41b4de4807cefc2ffae715f9e00a08969b8108614bf2b18f42344bac74d2910",
+            "size": 15231305,
+            "basename": "06. Using Huge Wordlists With Aircrack-ng Without Wasting Storage.mp4",
+            "modified_time": 1593754580.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\07. WPAWPA2 Cracking - Wordlist Attacks\\07. Saving Cracking Progress When Using Huge Wordlists Without Wasting Storage.mp4": {
+            "hash": "85c972b2aed868fdd12862d9bbc8c8d37bdc040a0f295e9040f4e3a9f955e3c1",
+            "size": 26467449,
+            "basename": "07. Saving Cracking Progress When Using Huge Wordlists Without Wasting Storage.mp4",
+            "modified_time": 1593754578.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\07. WPAWPA2 Cracking - Wordlist Attacks\\08. Speeding the Cracking Process Using Rainbow Tables.mp4": {
+            "hash": "13885453c2f467c7b99861ea35980f9d8d575be577f33ca85ba57d0315257e50",
+            "size": 10418228,
+            "basename": "08. Speeding the Cracking Process Using Rainbow Tables.mp4",
+            "modified_time": 1593754578.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\07. WPAWPA2 Cracking - Wordlist Attacks\\09. Cracking WPAWPA2 Much Faster Using GPU - Part 1.mp4": {
+            "hash": "37b975e35e19f0c142def3d5ff0e25e7963d6e995a972fe77a9da1cb4646da1c",
+            "size": 17106106,
+            "basename": "09. Cracking WPAWPA2 Much Faster Using GPU - Part 1.mp4",
+            "modified_time": 1593754576.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\07. WPAWPA2 Cracking - Wordlist Attacks\\10. Cracking WPAWPA2 Much Faster Using GPU - Part 2.mp4": {
+            "hash": "59b0e6c75ea24eb23df389b946e0c873bc47be27f0e1e16d9571e1c4e85ac8f8",
+            "size": 35431208,
+            "basename": "10. Cracking WPAWPA2 Much Faster Using GPU - Part 2.mp4",
+            "modified_time": 1593754576.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\07. WPAWPA2 Cracking - Wordlist Attacks\\Info.txt": {
+            "hash": "769c7792c9af59f08455e3a46f23fcf91ff488f3387edf28ed4b5e76c9cb26e1",
+            "size": 459,
+            "basename": "Info.txt",
+            "modified_time": 1698101174.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\08. WPAWPA2 Cracking - WPAWPA2 Enterprise\\01. What is WPAWPA2 Enterprise  How it Works.mp4": {
+            "hash": "c32d1862bc2b19b5409a55ba88cb14262a7fdb2e8b1477e2b922d76d253793b6",
+            "size": 14262769,
+            "basename": "01. What is WPAWPA2 Enterprise  How it Works.mp4",
+            "modified_time": 1593754624.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\08. WPAWPA2 Cracking - WPAWPA2 Enterprise\\02. How To Hack WPAWPA2 Enterprise.mp4": {
+            "hash": "1ea38a8ac75c4a5fa994613f65a5261710c559731b19a4221127829ec8f26e3f",
+            "size": 14608482,
+            "basename": "02. How To Hack WPAWPA2 Enterprise.mp4",
+            "modified_time": 1593754624.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\08. WPAWPA2 Cracking - WPAWPA2 Enterprise\\03. Stealing Login Credentials.mp4": {
+            "hash": "b8ba08edfe0cc1165791f521b1b164347b567e3c35f7b63920e8ea60ceeee24e",
+            "size": 12816198,
+            "basename": "03. Stealing Login Credentials.mp4",
+            "modified_time": 1593754622.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\08. WPAWPA2 Cracking - WPAWPA2 Enterprise\\04. Cracking Login Credentials.mp4": {
+            "hash": "a2559517a7a6252dd9df5683494b0d0589ccff6dbd5e5934e1d88493fd6014ad",
+            "size": 12901428,
+            "basename": "04. Cracking Login Credentials.mp4",
+            "modified_time": 1593754622.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\08. WPAWPA2 Cracking - WPAWPA2 Enterprise\\Info.txt": {
+            "hash": "769c7792c9af59f08455e3a46f23fcf91ff488f3387edf28ed4b5e76c9cb26e1",
+            "size": 459,
+            "basename": "Info.txt",
+            "modified_time": 1698101174.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\09. Protection\\01. Securing Systems From The Above Attacks.mp4": {
+            "hash": "0fe3f17b97b266d83b4971be51ff07b247a071743a3e991f3d5e9db8b97d33f8",
+            "size": 27600023,
+            "basename": "01. Securing Systems From The Above Attacks.mp4",
+            "modified_time": 1593754572.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\09. Protection\\02. How to Configure Wireless Security Settings To Secure Your Network.mp4": {
+            "hash": "e4db9b47f9bbb571f981c9e6e7ae4958027f084f97388008c3875eb44c4f2f3c",
+            "size": 11821099,
+            "basename": "02. How to Configure Wireless Security Settings To Secure Your Network.mp4",
+            "modified_time": 1593754572.0
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\09. Protection\\Info.txt": {
+            "hash": "769c7792c9af59f08455e3a46f23fcf91ff488f3387edf28ed4b5e76c9cb26e1",
+            "size": 459,
+            "basename": "Info.txt",
+            "modified_time": 1698101174.0
+        }
+    },
+    "directories": {
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\01. Introduction": {
+            "modified": 1749836485.6168313,
+            "basename": "01. Introduction"
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\02. Preparation": {
+            "modified": 1749836485.7280965,
+            "basename": "02. Preparation"
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\03. Network Basics": {
+            "modified": 1749836486.0934365,
+            "basename": "03. Network Basics"
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\04. WEP Cracking": {
+            "modified": 1749836486.252217,
+            "basename": "04. WEP Cracking"
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\05. WPAWPA2 Cracking": {
+            "modified": 1749836486.283705,
+            "basename": "05. WPAWPA2 Cracking"
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\06. WPAWPA2 Cracking - Exploiting WPS": {
+            "modified": 1749836486.4362855,
+            "basename": "06. WPAWPA2 Cracking - Exploiting WPS"
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\07. WPAWPA2 Cracking - Wordlist Attacks": {
+            "modified": 1749836486.701502,
+            "basename": "07. WPAWPA2 Cracking - Wordlist Attacks"
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\08. WPAWPA2 Cracking - WPAWPA2 Enterprise": {
+            "modified": 1749836486.8313808,
+            "basename": "08. WPAWPA2 Cracking - WPAWPA2 Enterprise"
+        },
+        "F:\\MEGA Downloads\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\Wi-Fi_Password_PenTesting_WEP,WPA,WPA2_V7x_Academy_2024\\09. Protection": {
+            "modified": 1749836486.9232564,
+            "basename": "09. Protection"
+        }
+    }
+}
